@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "no-inline-styles": "off",
+    "disown-opener": "off",
+    "css-prefix-order": "off",
+    "axe/aria": "off",
+    "compat-api/css": "off",
+    "axe/name-role-value": "off"
+  }
+}
